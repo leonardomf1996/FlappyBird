@@ -1,2 +1,4 @@
 # FlappyBird
-Game para browser baseado do Flappy Bird
+Game para browser baseado no Flappy Bird.
+
+Utilizado: HTML, CSS e Javascript.
